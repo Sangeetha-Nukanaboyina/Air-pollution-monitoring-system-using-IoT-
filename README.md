@@ -6,4 +6,5 @@ Project Summary: Combatting urban air pollution, this IoT-based system monitors 
 
 <img width="489" alt="Screenshot 2024-03-04 115038" src="https://github.com/Sangeetha-Nukanaboyina/Air-pollution-monitoring-system-using-IoT-/assets/138498339/5ebd18ee-7e03-431d-b248-a04865c7eba8">
 
-<img width="540" alt="Screenshot 2024-03-04 115058" src="https://github.com/Sangeetha-Nukanaboyina/Air-pollution-monitoring-system-using-IoT-/assets/138498339/e17c2b63-c09c-4fdf-b753-309358da1a0e">
+
+<img width="580" alt="Screenshot 2024-03-04 120118" src="https://github.com/Sangeetha-Nukanaboyina/Air-pollution-monitoring-system-using-IoT-/assets/138498339/56a399a0-104e-48bc-962f-7827cc0e6bba">
